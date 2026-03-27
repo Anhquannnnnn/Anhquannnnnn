@@ -54,8 +54,8 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Anhquannnnnn&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhquannnnnn&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anhquannnnnn.Anhquannnnnn" alt="visitors"/>
   <br><br>
   <i>"The best way to predict the future is to build it."</i>
 </div>
