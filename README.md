@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **LE Tu Anh Quan**
+# 👋 Hi, I'm **Quan**
 
 ### 🤖 NLP · 🎨 Image Generation · 🦾 Robotics
 
